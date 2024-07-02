@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Training models for Object Detection**
 
-- 🌱 I’m currently learning **JavaScript, Flutter, Gemini**
+- 🌱 I’m currently learning **AWS Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bertina3107](https://github.com/bertina3107)
+- 👨‍💻 All of my projects are available at [[https://github.com/bertina3107](https://github.com/bertina3107)](https://codingwithbertina.framer.website/)
 
-- 📫 How to reach me **ols.bertinajey2003@outlook.com**
+- 📫 How to reach me **bertina@ualberta.ca**
 
-- ⚡ Fun fact **Ironman is my favorite superhero**
+- ⚡ Fun fact **I am a Formula 1 enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
