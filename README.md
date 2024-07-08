@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bertina Jeyakumar</h1>
-<h3 align="center">Highly motivated student specialising in Artificial Intelligence</h3>
+<h3 align="center">High-performing self-motivated undergrad specialising in AI and Data Science</h3>
 
-- 🔭 I’m currently working on **Training models for Object Detection**
+- 🔭 I’m currently working on **Data Engineering**
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/bertina3107](https://github.com/bertina3107)](https://codingwithbertina.framer.website/)
+- 👨‍💻 All of my projects are available at (https://codingwithbertina.framer.website/)
 
 - 📫 How to reach me **bertina@ualberta.ca**
 
