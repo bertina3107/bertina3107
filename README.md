@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bertina Jeyakumar</h1>
+<h1 align="center">Hi, I'm Bertina Jeyakumar</h1>
 <h3 align="center">High-performing self-motivated undergrad specialising in AI and Data Science</h3>
 
 - 🔭 I’m currently working on **Data Engineering**
