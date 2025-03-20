@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bertina Jeyakumar</h1>
 <h3 align="center">High-performing self-motivated undergrad specialising in AI and Data Science</h3>
 
-<h3 align="center">Turning F1 Data into Winning Insights | Aspiring Data Scientist in Motorsport Analytics</h3>
+<h3 align="center">Turning Data into Winning Insights | Aspiring Data Scientist in Motorsport Analytics</h3>
 
 I’m a Computer Science major with a Math minor, passionate about applying machine learning and data science to motorsports. From analyzing race strategies to predicting podium finishes, I love uncovering insights that drive performance and decision-making in F1.
 
