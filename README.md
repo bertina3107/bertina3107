@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bertina Jeyakumar</h1>
-<h3 align="center">High-performing self-motivated undergrad specialising in AI and Data Science</h3>
+<h3 align="center">Motivated undergrad specialising in AI and Data Science</h3>
 
 <h3 align="center">Turning Data into Winning Insights | Aspiring Data Scientist in Motorsport Analytics</h3>
 
