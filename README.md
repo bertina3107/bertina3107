@@ -15,7 +15,7 @@ Applying NLP & sentiment analysis to F1 social media trends.
 Data is the backbone of modern F1 teams, influencing everything from aerodynamics to in-race decisions. My goal is to combine my love for F1, machine learning, and analytics to contribute to data-driven performance strategies in motorsports.
 
 **What’s Next?**
-I’m actively building my F1 data science portfolio and seeking opportunities in sports analytics, motorsport data, and performance strategy roles. Let’s connect if you share the same passion for data-driven racing! All of my projects are available at (https://codingwithbertina.framer.website/)
+I’m actively building my F1 Data Science portfolio and seeking opportunities in sports analytics, motorsport data, and performance strategy roles. Let’s connect if you share the same passion for data-driven racing! All of my projects are available at (https://codingwithbertina.framer.website/)
 
 **Let’s Talk:**
 If you're interested in F1 analytics, ML in sports, or data-driven strategies, I'd love to chat! Feel free to connect and discuss ideas. How to reach me **bertina@ualberta.ca**
